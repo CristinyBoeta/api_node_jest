@@ -1,1 +1,5 @@
 criando gitignore: npx gitignore node
+lincando projeto criado local com github: git init,
+git status,
+git remote add origin https://github.com/CristinyBoeta/api_node_jest.git,
+npm init
